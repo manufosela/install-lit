@@ -1,0 +1,7 @@
+{
+  "workbench.colorCustomizations": {
+    "activityBar.background": "BGCOLOR",
+    "titleBar.activeBackground": "TITLEBGCOLOR",
+    "titleBar.activeForeground": "TITLEFGCOLOR"
+  }
+}
